@@ -3,7 +3,7 @@
 ## Quickstart
 
 ```bash
-git clone https://github.com/f3600011/Python-Async
+git clone https://github.com/f3600011/Python-Async-Example
 cd Python-Async
 pip install -r requirements.txt
 ```

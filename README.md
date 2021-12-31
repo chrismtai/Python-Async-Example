@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/f3600011/Python-Async-Example
-cd Python-Async
+cd Python-Async-Example
 pip install -r requirements.txt
 ```
 Get a free API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key) and set it as an [environment variable](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html). If you're unfamiliar with environment variables, set it in your `.env` file.

@@ -1,4 +1,4 @@
-# Python-Sync-Async-Examples
+# Python Async Example
 
 ## Quickstart
 
